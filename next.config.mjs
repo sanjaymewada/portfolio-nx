@@ -6,7 +6,7 @@ const withNextIntl = createNextIntlPlugin()
 const nextConfig = {
   images: {
     formats: ['image/avif', 'image/webp']
-  }
+  }, // ← yaha comma chahiye tha
 
   eslint: {
     ignoreDuringBuilds: true,
