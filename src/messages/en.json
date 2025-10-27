@@ -21,191 +21,75 @@
   "hero": {
     "available": "Available",
     "about": {
-      "title": "Frontend Engineer, Developer Relations and AI research enthusiast. Always influenced by design. Based in Rosario, Argentina 🇦🇷",
-      "description": "Passionate about creating innovative tech solutions for social impact. Focused on using advanced frontend technologies to improve accessibility and performance in web applications. My main goal is to enhance user experience, making the web a better place for everyone."
-    }
+      "title": "`DevOps Engineer focused on automation, scalability, and cloud infrastructure. Based in Hyderabad, India 🇮🇳`",
+      "description": `I'm a passionate DevOps Engineer on a mission to automate everything and build highly scalable cloud infrastructures. With a strong focus on cloud computing, automation, and DevOps best practices, I specialize in streamlining deployments, optimizing workflows, and maintaining high-performance infrastructure. I work on real-time DevOps and cloud projects involving AWS, Azure, Terraform, Kubernetes, and Docker. I also develop automation scripts for tool installations and configurations, create comprehensive interview preparation content and cheat sheets, design curated learning paths for engineers at all levels, and foster collaborative spaces for open-source contributions and knowledge sharing.`
+}
   },
   "career": {
     "title": "Career & Works",
     "viewMore": "View more",
     "companies": [
-      {
-        "company": "Frontend Lab",
-        "link": "https://github.com/thefrontendlab",
-        "badges": ["Hybrid"],
-        "jobs": [
-          {
-            "title": "Frontend Developer & Technical Researcher",
-            "start": "Aug, 2023",
-            "end": "Present",
-            "description": [
-              "Researched and implemented new frontend technologies and tools.",
-              "Developed innovative solutions to improve the frontend community.",
-              "Conducted technical research to stay ahead of industry trends.",
-              "Created and maintained open-source projects.",
-              "Collaborated with team members to enhance project outcomes."
-            ]
-          },
-          {
-            "title": "Technical Researcher & Content Developer",
-            "start": "Jul, 2021",
-            "end": "Aug, 2023",
-            "description": [
-              "Created technical content to educate and engage the frontend community.",
-              "Developed tutorials and guides on the latest frontend technologies.",
-              "Managed the content strategy to align with community needs and trends.",
-              "Collaborated with experts to produce high-quality, informative content.",
-              "Utilized various platforms to distribute content and maximize reach."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Next.js Argentina",
-        "link": "https://github.com/nextjsargentina",
-        "badges": ["Hybrid"],
-        "jobs": [
-          {
-            "title": "Developer Experience Architect",
-            "start": "Aug, 2023",
-            "end": "Present",
-            "description": [
-              "Built and nurtured a non-profit open community for Next.js enthusiasts.",
-              "Developed resources to enhance the developer experience with Next.js.",
-              "Organized community events and workshops.",
-              "Provided mentorship and support to community members.",
-              "Collaborated with other community leaders to expand the community reach."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Estudio Cabeza",
-        "link": "https://estudiocabeza.com",
-        "badges": ["Remote"],
-        "jobs": [
-          {
-            "title": "DevOps & Infrastructure Specialist",
-            "start": "Jul, 2024",
-            "end": "Aug, 2024",
-            "description": [
-              "Migrated from WordPress to Webflow, boosting performance.",
-              "Configured Cloudflare for SSL and DNS.",
-              "Streamlined deployments to minimize downtime.",
-              "Automated workflows for efficiency.",
-              "Aligned infrastructure with business needs."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Invisible Technologies",
-        "link": "https://invisible.co",
-        "badges": ["Remote"],
-        "jobs": [
-          {
-            "title": "Operator & Advanced AI Trainer",
-            "start": "May, 2024",
-            "end": "Aug, 2024",
-            "description": [
-              "Managed AI system operations to ensure optimal performance.",
-              "Trained advanced AI models to improve system accuracy.",
-              "Collaborated with cross-functional teams to develop AI solutions.",
-              "Analyzed data to enhance AI training methodologies.",
-              "Implemented feedback to refine AI models continuously."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "BaseHub",
-        "link": "https://basehub.com",
-        "badges": ["Remote"],
-        "jobs": [
-          {
-            "title": "Developer Relations",
-            "start": "Mar, 2024",
-            "end": "Aug, 2024",
-            "description": [
-              "Assisted developers in building applications using BaseHub CMS and native AI.",
-              "Provided technical support and guidance to developers.",
-              "Created documentation and tutorials for better product understanding.",
-              "Organized and conducted webinars and workshops.",
-              "Engaged with the developer community to gather feedback and improve the product."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Smat.io",
-        "link": "https://smat.io",
-        "badges": ["Remote"],
-        "jobs": [
-          {
-            "title": "QA Tester & Frontend Developer",
-            "start": "Aug, 2022",
-            "end": "Aug, 2023",
-            "description": [
-              "Led QA testing using Jest and Playwright to ensure web applications' quality.",
-              "Implemented Test-Driven Development (TDD) practices.",
-              "Developed user-friendly interfaces with React.js.",
-              "Collaborated with developers to optimize code quality.",
-              "Conducted bug tracking and troubleshooting."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "Maker DAO",
-        "link": "https://makerdao.com",
-        "badges": ["Remote"],
-        "jobs": [
-          {
-            "title": "Technical Writer and Translator",
-            "start": "Feb, 2022",
-            "end": "Aug, 2022",
-            "description": [
-              "Authored technical documentation, including whitepapers, guides, and tutorials.",
-              "Translated complex technical content for diverse audiences.",
-              "Facilitated user understanding of blockchain and DeFi concepts.",
-              "Collaborated with subject matter experts to ensure accuracy.",
-              "Maintained and updated documentation as needed."
-            ]
-          }
-        ]
-      },
-      {
-        "company": "El Chaperón",
-        "badges": ["On-site"],
-        "jobs": [
-          {
-            "title": "Web Designer & Community Manager",
-            "start": "Jan, 2019",
-            "end": "Dec, 2021",
-            "description": [
-              "Developed and designed responsive websites using WordPress.",
-              "Managed online tourist services for the city of Rosario.",
-              "Coordinated with the Rosario Hotel Association and Tourist Entity (ETUR).",
-              "Created engaging content for community outreach.",
-              "Implemented SEO strategies to improve website visibility."
-            ]
-          },
-          {
-            "title": "Commercial Advisor",
-            "start": "Jan, 2016",
-            "end": "Dec, 2018",
-            "description": [
-              "Maintained customer database for accuracy.",
-              "Executed marketing strategies to attract customers.",
-              "Managed services and ensured customer satisfaction.",
-              "Designed and implemented promotional campaigns with the marketing team.",
-              "Analyzed feedback and trends to improve services and marketing."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+       company: 'ICS industrial Automation Pvt Ltd',
+      link: 'https://www.ics-india.co.in',
+      badges: ['In-Office'],
+      jobs: [
+        {
+          title: 'IT-Executive',
+          start: 'Mar, 2023',
+          end: 'Present',
+          description: [
+            'Progressed from Server/Network support to full Cloud DevOps responsibilities, mastering automation, containerization, and monitoring.',
+            'Worked as a Server Administrator and IT Support, managing Linux/Windows servers, IIS, and troubleshooting issues to ensure high system uptime.',
+            'Skilled in server management (ADDS, DNS,IIS), virtualization (VMware, Hyper-V), and cloud technologies (AWS).',
+            'Automated cloud infrastructure provisioning using Terraform and Ansible across AWS environments, reducing manual efforts.',
+            'Implemented CI/CD pipelines for both on-premises and cloud environments using Jenkins and AWS DevOps, accelerating software delivery.',
+            'Managed Kubernetes clusters and containerized applications with Docker and Helm charts.',
+            'Monitored and optimized system performance with Prometheus, Grafana.',
+            'Collaborated with cross-functional teams to enhance deployment workflows, incident response, and IT operations.',
+            'Ensured cloud resources are secure, compliant, and cost-efficient, integrating IAM, VPC, and Auto Scaling best practices.'
+          ]
+        }
+      ]
+    },
+    {
+      company: 'Ecom-Express',
+      link: 'https://www.ecomexpress.in',
+      badges: ['In-Office'],
+      jobs: [
+        {
+          title: 'Desktop Support Engineer',
+          start: 'Aug, 2022',
+          end: 'Nov, 2022',
+          description: [
+            'Delivered L1/L2 support for desktops, laptops, printers, and networking devices.',
+            'Managed OS deployment, software installation, patching, and Active Directory user management.',
+            'Resolved hardware and software issues promptly, improving end-user productivity.',
+            'Maintained IT asset inventory and supported CCTV and biometric access systems.',
+            'Implemented IT policies and ensured compliance with security standards.'
+          ]
+        }
+      ]
+    },
+    {
+      company: 'Indian Institute of Management (IIM) – Indore',
+      link: 'https://www.iimidr.ac.in',
+      badges: ['In-Office'],
+      jobs: [
+        {
+          title: 'Network Support Engineer',
+          start: 'Feb, 2020',
+          end: 'Oct, 2021',
+          description: [
+            'Monitored and managed LAN/WAN, VLANs, VPNs, and firewalls, ensuring secure and reliable connectivity.',
+            'Configured and troubleshot Cisco routers and switches, improving network performance.',
+            'Supported wireless networks to enhance academic and administrative uptime.',
+            'Documented incidents, performed Root Cause Analysis, and implemented preventive measures to strengthen network reliability.',
+            'Collaborated with IT teams to optimize network operations and maintain compliance.'
+          ]
+        }
+      ]
+    }
+  ]
   "projects": {
     "title": "Projects & Crafts",
     "not-found": "No projects found",
