@@ -27,39 +27,39 @@ import { FileTextIcon, LinkIcon, MailIcon } from 'lucide-react'
 import type { IconComponent } from '@/types'
 
 export const AVATAR = {
-  name: 'Emanuel Peire',
-  initials: 'EP'
+  name: 'Sanjay Mewada',
+  initials: 'SM'
 }
 
 export const LINKS = [
   {
     title: 'GitHub',
-    url: 'https://github.com/emapeire',
+    url: 'https://github.com/sanjaymewada',
     icon: GitHubIcon
   },
   {
     title: 'LinkedIn',
-    url: 'https://linkedin.com/in/emanuelpeire',
+    url: 'https://www.linkedin.com/in/sanjaymewada-',
     icon: LinkedInIcon
   },
   {
     title: 'X (Twitter)',
-    url: 'https://x.com/emapeire',
+    url: 'https://x.com/',
     icon: XIcon
   },
   {
     title: 'Email',
-    url: 'mailto:hi@emapeire.xyz',
+    url: 'mailto:sanjaymewada786@gmail.com',
     icon: MailIcon
   },
   {
     title: 'CV App',
-    url: 'https://cv.emapeire.xyz',
+    url: 'https://cv-mocha-one.vercel.app/',
     icon: FileTextIcon
   },
   {
     title: 'Link App',
-    url: 'https://link.emapeire.xyz',
+    url: '',
     icon: LinkIcon
   }
 ]
