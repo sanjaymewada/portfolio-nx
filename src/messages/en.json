@@ -22,74 +22,76 @@
     "available": "Available",
     "about": {
       "title": "`DevOps Engineer focused on automation, scalability, and cloud infrastructure. Based in Hyderabad, India 🇮🇳`",
-      "description": `I'm a passionate DevOps Engineer on a mission to automate everything and build highly scalable cloud infrastructures. With a strong focus on cloud computing, automation, and DevOps best practices, I specialize in streamlining deployments, optimizing workflows, and maintaining high-performance infrastructure. I work on real-time DevOps and cloud projects involving AWS, Azure, Terraform, Kubernetes, and Docker. I also develop automation scripts for tool installations and configurations, create comprehensive interview preparation content and cheat sheets, design curated learning paths for engineers at all levels, and foster collaborative spaces for open-source contributions and knowledge sharing.`
-}
+      "description": "I'm a passionate DevOps Engineer on a mission to automate everything and build highly scalable cloud infrastructures. With a strong focus on cloud computing, automation, and DevOps best practices, I specialize in streamlining deployments, optimizing workflows, and maintaining high-performance infrastructure. I work on real-time DevOps and cloud projects involving AWS, Azure, Terraform, Kubernetes, and Docker. I also develop automation scripts for tool installations and configurations, create comprehensive interview preparation content and cheat sheets, design curated learning paths for engineers at all levels, and foster collaborative spaces for open-source contributions and knowledge sharing."
+    }
   },
   "career": {
     "title": "Career & Works",
     "viewMore": "View more",
     "companies": [
-       company: 'ICS industrial Automation Pvt Ltd',
-      link: 'https://www.ics-india.co.in',
-      badges: ['In-Office'],
-      jobs: [
-        {
-          title: 'IT-Executive',
-          start: 'Mar, 2023',
-          end: 'Present',
-          description: [
-            'Progressed from Server/Network support to full Cloud DevOps responsibilities, mastering automation, containerization, and monitoring.',
-            'Worked as a Server Administrator and IT Support, managing Linux/Windows servers, IIS, and troubleshooting issues to ensure high system uptime.',
-            'Skilled in server management (ADDS, DNS,IIS), virtualization (VMware, Hyper-V), and cloud technologies (AWS).',
-            'Automated cloud infrastructure provisioning using Terraform and Ansible across AWS environments, reducing manual efforts.',
-            'Implemented CI/CD pipelines for both on-premises and cloud environments using Jenkins and AWS DevOps, accelerating software delivery.',
-            'Managed Kubernetes clusters and containerized applications with Docker and Helm charts.',
-            'Monitored and optimized system performance with Prometheus, Grafana.',
-            'Collaborated with cross-functional teams to enhance deployment workflows, incident response, and IT operations.',
-            'Ensured cloud resources are secure, compliant, and cost-efficient, integrating IAM, VPC, and Auto Scaling best practices.'
-          ]
-        }
-      ]
-    },
-    {
-      company: 'Ecom-Express',
-      link: 'https://www.ecomexpress.in',
-      badges: ['In-Office'],
-      jobs: [
-        {
-          title: 'Desktop Support Engineer',
-          start: 'Aug, 2022',
-          end: 'Nov, 2022',
-          description: [
-            'Delivered L1/L2 support for desktops, laptops, printers, and networking devices.',
-            'Managed OS deployment, software installation, patching, and Active Directory user management.',
-            'Resolved hardware and software issues promptly, improving end-user productivity.',
-            'Maintained IT asset inventory and supported CCTV and biometric access systems.',
-            'Implemented IT policies and ensured compliance with security standards.'
-          ]
-        }
-      ]
-    },
-    {
-      company: 'Indian Institute of Management (IIM) – Indore',
-      link: 'https://www.iimidr.ac.in',
-      badges: ['In-Office'],
-      jobs: [
-        {
-          title: 'Network Support Engineer',
-          start: 'Feb, 2020',
-          end: 'Oct, 2021',
-          description: [
-            'Monitored and managed LAN/WAN, VLANs, VPNs, and firewalls, ensuring secure and reliable connectivity.',
-            'Configured and troubleshot Cisco routers and switches, improving network performance.',
-            'Supported wireless networks to enhance academic and administrative uptime.',
-            'Documented incidents, performed Root Cause Analysis, and implemented preventive measures to strengthen network reliability.',
-            'Collaborated with IT teams to optimize network operations and maintain compliance.'
-          ]
-        }
-      ]
-    }
-  ]
+      {
+        "company": "ICS industrial Automation Pvt Ltd",
+        "link": "https://www.ics-india.co.in",
+        "badges": ["In-Office"],
+        "jobs": [
+          {
+            "title": "IT-Executive",
+            "start": "Mar, 2023",
+            "end": "Present",
+            "description": [
+              "Progressed from Server/Network support to full Cloud DevOps responsibilities, mastering automation, containerization, and monitoring.",
+              "Worked as a Server Administrator and IT Support, managing Linux/Windows servers, IIS, and troubleshooting issues to ensure high system uptime.",
+              "Skilled in server management (ADDS, DNS,IIS), virtualization (VMware, Hyper-V), and cloud technologies (AWS).",
+              "Automated cloud infrastructure provisioning using Terraform and Ansible across AWS environments, reducing manual efforts.",
+              "Implemented CI/CD pipelines for both on-premises and cloud environments using Jenkins and AWS DevOps, accelerating software delivery.",
+              "Managed Kubernetes clusters and containerized applications with Docker and Helm charts.",
+              "Monitored and optimized system performance with Prometheus, Grafana.",
+              "Collaborated with cross-functional teams to enhance deployment workflows, incident response, and IT operations.",
+              "Ensured cloud resources are secure, compliant, and cost-efficient, integrating IAM, VPC, and Auto Scaling best practices."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Ecom-Express",
+        "link": "https://www.ecomexpress.in",
+        "badges": ["In-Office"],
+        "jobs": [
+          {
+            "title": "Desktop Support Engineer",
+            "start": "Aug, 2022",
+            "end": "Nov, 2022",
+            "description": [
+              "Delivered L1/L2 support for desktops, laptops, printers, and networking devices.",
+              "Managed OS deployment, software installation, patching, and Active Directory user management.",
+              "Resolved hardware and software issues promptly, improving end-user productivity.",
+              "Maintained IT asset inventory and supported CCTV and biometric access systems.",
+              "Implemented IT policies and ensured compliance with security standards."
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Indian Institute of Management (IIM) – Indore",
+        "link": "https://www.iimidr.ac.in",
+        "badges": ["In-Office"],
+        "jobs": [
+          {
+            "title": "Network Support Engineer",
+            "start": "Feb, 2020",
+            "end": "Oct, 2021",
+            "description": [
+              "Monitored and managed LAN/WAN, VLANs, VPNs, and firewalls, ensuring secure and reliable connectivity.",
+              "Configured and troubleshot Cisco routers and switches, improving network performance.",
+              "Supported wireless networks to enhance academic and administrative uptime.",
+              "Documented incidents, performed Root Cause Analysis, and implemented preventive measures to strengthen network reliability.",
+              "Collaborated with IT teams to optimize network operations and maintain compliance."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "projects": {
     "title": "Projects & Crafts",
     "not-found": "No projects found",
@@ -99,14 +101,38 @@
       {
         "title": "BaseHub - Next.js blog",
         "tags": [
-          { "name": "BaseHub", "icon": "BasehubIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vercel", "icon": "VercelIcon" }
+          {
+            "name": "BaseHub",
+            "icon": "BasehubIcon"
+          },
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "PNPM",
+            "icon": "PNPMIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vercel",
+            "icon": "VercelIcon"
+          }
         ],
         "description": "A starter guide template blog made with Next.js and BaseHub CMS. It uses the BaseHub API to fetch and display posts.",
         "link": {
@@ -118,12 +144,30 @@
       {
         "title": "Basement Challenge",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "PNPM",
+            "icon": "PNPMIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "Basement studio stream challenge.",
         "link": {
@@ -135,12 +179,30 @@
       {
         "title": "Chat With Vader",
         "tags": [
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "OpenAI",
+            "icon": "OpenAIIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "A simple chat app that uses the OpenAI API and Vercel AI SDK to chat with Darth Vader.",
         "link": {
@@ -151,8 +213,14 @@
       {
         "title": "Cohere Chat",
         "tags": [
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Node.js", "icon": "NodeJSIcon" }
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Node.js",
+            "icon": "NodeJSIcon"
+          }
         ],
         "description": "A chatbot that uses the Cohere API to generate responses to user input.",
         "link": {
@@ -163,12 +231,30 @@
       {
         "title": "Comments App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple comments app made with React and Vite.",
         "link": {
@@ -179,13 +265,34 @@
       {
         "title": "Crud App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Redux", "icon": "ReduxIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Redux",
+            "icon": "ReduxIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple CRUD app made with React and Vite.",
         "link": {
@@ -197,12 +304,30 @@
       {
         "title": "Eloquent JavaScript Chat",
         "tags": [
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "OpenAI",
+            "icon": "OpenAIIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Shadcn/ui",
+            "icon": "ShadcnIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "In this app you will be able to interact with a intelligent llama that will answer your questions about JavaScript.",
         "link": {
@@ -213,15 +338,42 @@
       {
         "title": "Google Translate UI",
         "tags": [
-          { "name": "Bootstrap", "icon": "BootstrapIcon" },
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" },
-          { "name": "Vitest", "icon": "VitestIcon" }
+          {
+            "name": "Bootstrap",
+            "icon": "BootstrapIcon"
+          },
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "OpenAI",
+            "icon": "OpenAIIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          },
+          {
+            "name": "Vitest",
+            "icon": "VitestIcon"
+          }
         ],
         "description": "This is a simple API that uses the OpenAI GPT-4-vision-preview model to generate code from images.",
         "link": {
@@ -232,12 +384,30 @@
       {
         "title": "Image 2 Code",
         "tags": [
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "OpenAI",
+            "icon": "OpenAIIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Shadcn/ui",
+            "icon": "ShadcnIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "This is a tool that converts images to code. It uses AI to generate code from images. It is based on the GPT-4-vision-preview model.",
         "link": {
@@ -248,12 +418,30 @@
       {
         "title": "JavaScript Quiz",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple quiz app made with React and Zustand.",
         "link": {
@@ -265,12 +453,30 @@
       {
         "title": "Mercado Libre Challenge",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "PNPM",
+            "icon": "PNPMIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "Challenge to create a product search app using the Mercado Libre API. Built with Next.js and TypeScript.",
         "link": {
@@ -282,11 +488,26 @@
       {
         "title": "Mouse Follower",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple mouse follower app made with React and Vite.",
         "link": {
@@ -298,12 +519,30 @@
       {
         "title": "Morty's characters",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "GraphQL", "icon": "GraphQLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "GraphQL",
+            "icon": "GraphQLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "A simple app that lists all Morty's characters. Built with Next.js and GraphQL.",
         "link": {
@@ -315,11 +554,26 @@
       {
         "title": "Movie Search App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple movie search app made with React and Vite.",
         "link": {
@@ -331,15 +585,42 @@
       {
         "title": "Next.js Chat App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "PNPM",
+            "icon": "PNPMIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Shadcn/ui",
+            "icon": "ShadcnIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "NextJS-Chat offers beginners a chat-based interface to learn Next.js and best coding practices through an AI expert.",
         "link": {
@@ -350,15 +631,42 @@
       {
         "title": "Next.js Releases App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "PNPM", "icon": "PNPMIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Shadcn/ui", "icon": "ShadcnIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "PNPM",
+            "icon": "PNPMIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Shadcn/ui",
+            "icon": "ShadcnIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "NextJS Releases is an App that tracks new releases on NextJS's GitHub repo.",
         "link": {
@@ -370,8 +678,14 @@
       {
         "title": "React GPT",
         "tags": [
-          { "name": "OpenAI", "icon": "OpenAIIcon" },
-          { "name": "React", "icon": "ReactIcon" }
+          {
+            "name": "OpenAI",
+            "icon": "OpenAIIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          }
         ],
         "description": "An AI-driven web engineering expert for React community.",
         "link": {
@@ -382,9 +696,18 @@
       {
         "title": "Screen Recorder",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          }
         ],
         "description": "Native screen recorder made with MediaRecorder web-api",
         "link": {
@@ -395,11 +718,26 @@
       {
         "title": "Shopping Cart",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple shopping cart app made with React and Vite.",
         "link": {
@@ -411,9 +749,18 @@
       {
         "title": "Space X Launches",
         "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "Astro",
+            "icon": "AstroIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "A simple app that lists all SpaceX launches. Built with Astro and TypeScript.",
         "link": {
@@ -425,12 +772,30 @@
       {
         "title": "Spotify UI",
         "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Svelte", "icon": "SvelteIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "Astro",
+            "icon": "AstroIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Svelte",
+            "icon": "SvelteIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "An open-source Spotify clone built with Svelte and Astro.",
         "link": {
@@ -442,12 +807,30 @@
       {
         "title": "SWC Router",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "SWC", "icon": "SWCIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "SWC",
+            "icon": "SWCIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "Simple single-page applications (SPA) with ease using swc-router. This lightweight routing solution for React applications leverages the speed of SWC.",
         "link": {
@@ -459,8 +842,14 @@
       {
         "title": "View Transitions API",
         "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" }
+          {
+            "name": "Astro",
+            "icon": "AstroIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          }
         ],
         "description": "This is a sample project that demonstrates how to use the View Transitions API with Astro.",
         "link": {
@@ -472,9 +861,18 @@
       {
         "title": "Tesla Landing UI",
         "tags": [
-          { "name": "Astro", "icon": "AstroIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" }
+          {
+            "name": "Astro",
+            "icon": "AstroIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          }
         ],
         "description": "An open-source Tesla landing page built with Astro and Tailwind CSS.",
         "link": {
@@ -486,11 +884,26 @@
       {
         "title": "Tic Tac Toe",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple tic-tac-toe game made with React and TypeScript.",
         "link": {
@@ -502,12 +915,30 @@
       {
         "title": "Todo App",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "A simple todo app made with React and TypeScript.",
         "link": {
@@ -519,11 +950,26 @@
       {
         "title": "Twitter Follow Card UI",
         "tags": [
-          { "name": "CSS", "icon": "CSSIcon" },
-          { "name": "HTML", "icon": "HTMLIcon" },
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Vite", "icon": "ViteIcon" }
+          {
+            "name": "CSS",
+            "icon": "CSSIcon"
+          },
+          {
+            "name": "HTML",
+            "icon": "HTMLIcon"
+          },
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Vite",
+            "icon": "ViteIcon"
+          }
         ],
         "description": "An open-source Twitter follow card built with React and Vite.",
         "link": {
@@ -535,12 +981,30 @@
       {
         "title": "Twitter UI",
         "tags": [
-          { "name": "JavaScript", "icon": "JavaScriptIcon" },
-          { "name": "Next.js", "icon": "NextJSIcon" },
-          { "name": "React", "icon": "ReactIcon" },
-          { "name": "Supabase", "icon": "SupabaseIcon" },
-          { "name": "Tailwind CSS", "icon": "TailwindCSSIcon" },
-          { "name": "TypeScript", "icon": "TypeScriptIcon" }
+          {
+            "name": "JavaScript",
+            "icon": "JavaScriptIcon"
+          },
+          {
+            "name": "Next.js",
+            "icon": "NextJSIcon"
+          },
+          {
+            "name": "React",
+            "icon": "ReactIcon"
+          },
+          {
+            "name": "Supabase",
+            "icon": "SupabaseIcon"
+          },
+          {
+            "name": "Tailwind CSS",
+            "icon": "TailwindCSSIcon"
+          },
+          {
+            "name": "TypeScript",
+            "icon": "TypeScriptIcon"
+          }
         ],
         "description": "An open-source Twitter clone built with Next.js and Supabase.",
         "link": {
